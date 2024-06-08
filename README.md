@@ -1,1 +1,1 @@
-SQL Project on Analysis of Music Store
+SQL Project on Analysis Of Music Store
